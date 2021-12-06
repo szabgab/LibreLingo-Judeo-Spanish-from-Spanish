@@ -1,0 +1,79 @@
+Skill:
+  Name: Basic 1
+  Id: 101
+  Thumbnails:
+    - boy1
+    - girl1
+    - woman1
+
+New words:
+  - Word: la mujer
+    Translation: la mujer
+    Images:
+      - woman1
+      - woman2
+      - woman3
+
+  - Word: mujer
+    Translation: mujer
+    Images:
+      - woman1
+      - woman2
+      - woman3
+
+  - Word: ombre
+    Translation: hombre
+    Images:
+      - man1
+      - man2
+      - man3
+
+  - Word: el ombre
+    Translation: el hombre
+    Images:
+      - man1
+      - man2
+      - man3
+
+
+Phrases:
+  - Phrase: yo so una mujer
+    Translation: yo soy una mujer
+  - Phrase: un ombre
+    Translation: un hombre
+  - Phrase: el ombre
+    Translation: el hombre
+  - Phrase: yo so un ombre
+    Translation: yo soy un hombre
+  - Phrase: una mujer, un ombre
+    Translation: una mujer, un hombre
+  - Phrase: eya es una mujer
+    Translation: ella es una mujer
+  - Phrase: el es un ombre
+    Translation: el es un hombre
+  - Phrase: tu sos un ombre
+    Translation: tu eres un hombre
+
+Mini-dictionary:
+  Ladino:
+    - yo: yo
+    - tu: tu
+    - sos: eres
+    - so: soy
+    - una: una
+    - un: un
+    - el: el
+    - la: la
+    - eya: ella
+    - es: es
+  Spanish:
+    - yo: yo
+    - tu: tu
+    - soy: so
+    - eres: sos
+    - una: una
+    - un: un
+    - el: el
+    - la: la
+    - es: es
+    - ella: eya

@@ -1,0 +1,34 @@
+# This file contains generic meta-data about the course
+
+Course:
+  Language:
+    Name: Ladino
+    IETF BCP 47: lad
+  For speakers of:
+    Name: Spanish
+    IETF BCP 47: es
+  License:
+    Name: Attribution-ShareAlike 4.0 International
+    Short name: CC BY-SA 4.0
+    Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+  Repository: https://github.com/szabgab/LibreLingo-Judeo-Spanish-from-Spanish
+  Special characters:
+    - "á"
+    - "Á"
+    - "é"
+    - "É"
+    - "í"
+    - "Í"
+    - "ó"
+    - "Ó"
+    - "ú"
+    - "Ú"
+    - "ü"
+    - "Ü"
+    - "ñ"
+    - "Ñ"
+    - "¿"
+    - "¡"
+
+Modules:
+  - basic/
